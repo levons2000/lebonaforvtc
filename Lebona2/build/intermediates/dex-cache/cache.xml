@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.0\3c473ebbfeef016ab2ff977e84868b821070a5f6\picasso-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c473ebbfeef016ab2ff977e84868b821070a5f6">
+        <dex dex="C:\Users\HP\Desktop\Lebona2\app\build\intermediates\pre-dexed\debug\picasso-2.3.0_bd562d533b78ff6bc32e24e4b9129b8bca6388a5.jar" />
+    </item>
+
+</items>
